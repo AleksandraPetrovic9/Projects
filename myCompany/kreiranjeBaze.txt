@@ -1,0 +1,94 @@
+CREATE KEYSPACE mycompany
+WITH replication = {'class':'SimpleStrategy', 'replication_factor' : 3};
+
+CREATE TABLE mycompany."Placanje" (
+    "idPlate" text,
+    "datumIsplate" text,
+    "idRadnika" text,
+    "idSefa" text,
+    "idVodje" text,
+    iznos int,
+    PRIMARY KEY ("idPlate")
+);
+CREATE TABLE mycompany."SlobodniDani" (
+    "idDana" text,
+    "datumDo" date,
+    "datumOd" date,
+    "idRadnika" text,
+    "idSefa" text,
+    "idVodje" text,
+    odobreno text,
+    pregledano text,
+    PRIMARY KEY ("idDana")
+);
+CREATE TABLE mycompany."Projekat" (
+    "idProjekta" text,
+    datumkraja date,
+    datumpocetka date,
+    "idSefa" text,
+    "idVodje" text,
+    naziv text,
+    prioritet text,
+    rok date,
+    PRIMARY KEY ("idProjekta")
+);
+CREATE TABLE mycompany."Sef" (
+    "idSefa" text,
+    email text,
+    ime text,
+    jmbg text,
+    prezime text,
+    racun text,
+    telefon text,
+    PRIMARY KEY ("idSefa")
+);
+CREATE TABLE mycompany."Login" (
+    email text,
+    sifra text,
+    tip text,
+    PRIMARY KEY (email)
+);
+CREATE TABLE mycompany."Radnik" (
+    "idRadnika" text,
+    email text,
+    ime text,
+    jmbg text,
+    odmor text,
+    plata text,
+    prezime text,
+    racun text,
+    slobodan text,
+    telefon text,
+    zanimanje text,
+    PRIMARY KEY ("idRadnika")
+);
+CREATE TABLE mycompany."Tim" (
+    "idTima" text,
+    aktivan text,
+    "idRadnika" text,
+    "idVodje" text,
+    naziv text,
+    PRIMARY KEY ("idTima")
+) ;
+CREATE TABLE mycompany."Vodja" (
+    "idVodje" text,
+    email text,
+    ime text,
+    jmbg text,
+    odmor text,
+    plata text,
+    prezime text,
+    racun text,
+    slobodan text,
+    telefon text,
+    PRIMARY KEY ("idVodje")
+);
+CREATE TABLE mycompany."Zadatak" (
+    "idZadatka" text,
+    "idRadnika" text,
+    "idVodje" text,
+    naziv text,
+    obavljeno text,
+    opis text,
+    PRIMARY KEY ("idZadatka")
+);

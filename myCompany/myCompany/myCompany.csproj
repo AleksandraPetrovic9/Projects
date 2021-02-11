@@ -1,0 +1,337 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{0544D910-3934-462C-A9BB-296B06C59FF9}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>myCompany</RootNamespace>
+    <AssemblyName>myCompany</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Cassandra, Version=3.99.0.0, Culture=neutral, PublicKeyToken=10b231fbfc8c4b4d, processorArchitecture=MSIL">
+      <HintPath>..\packages\CassandraCSharpDriver.3.12.0\lib\net45\Cassandra.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="CqlPoco, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\CqlPoco.1.0.0\lib\net45\CqlPoco.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="LZ4, Version=1.0.10.93, Culture=neutral, PublicKeyToken=62e1b5ec1eec9bdd, processorArchitecture=MSIL">
+      <HintPath>..\packages\lz4net.1.0.10.93\lib\net4-client\LZ4.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Microsoft.Extensions.DependencyInjection.Abstractions, Version=1.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.Extensions.DependencyInjection.Abstractions.1.0.0\lib\netstandard1.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Microsoft.Extensions.Logging, Version=1.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.Extensions.Logging.1.0.0\lib\netstandard1.1\Microsoft.Extensions.Logging.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Microsoft.Extensions.Logging.Abstractions, Version=1.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.Extensions.Logging.Abstractions.1.0.0\lib\netstandard1.1\Microsoft.Extensions.Logging.Abstractions.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Microsoft.Win32.Primitives, Version=4.0.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.Win32.Primitives.4.0.1\lib\net46\Microsoft.Win32.Primitives.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Newtonsoft.Json, Version=9.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
+      <HintPath>..\packages\Newtonsoft.Json.9.0.1\lib\net45\Newtonsoft.Json.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Diagnostics.DiagnosticSource, Version=4.0.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Diagnostics.DiagnosticSource.4.0.0\lib\net46\System.Diagnostics.DiagnosticSource.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.IO.Compression" />
+    <Reference Include="System.Net.Http, Version=4.1.0.3, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Net.Http.4.1.4\lib\net46\System.Net.Http.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Numerics" />
+    <Reference Include="System.Security.Cryptography.Algorithms, Version=4.1.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Security.Cryptography.Algorithms.4.2.0\lib\net461\System.Security.Cryptography.Algorithms.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Security.Cryptography.Encoding, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Security.Cryptography.Encoding.4.0.0\lib\net46\System.Security.Cryptography.Encoding.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Security.Cryptography.Primitives, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Security.Cryptography.Primitives.4.0.0\lib\net46\System.Security.Cryptography.Primitives.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Security.Cryptography.X509Certificates, Version=4.1.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Security.Cryptography.X509Certificates.4.1.0\lib\net461\System.Security.Cryptography.X509Certificates.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Threading.Tasks.Dataflow, Version=4.6.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Threading.Tasks.Dataflow.4.6.0\lib\netstandard1.1\System.Threading.Tasks.Dataflow.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="DataProvider.cs" />
+    <Compile Include="Forme\AzurirajProjekat.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forme\AzurirajProjekat.Designer.cs">
+      <DependentUpon>AzurirajProjekat.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forme\DodajProjekat.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forme\DodajProjekat.Designer.cs">
+      <DependentUpon>DodajProjekat.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forme\DodajRadnika.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forme\DodajRadnika.designer.cs">
+      <DependentUpon>DodajRadnika.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forme\Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forme\Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forme\FormirajTimForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forme\FormirajTimForm.Designer.cs">
+      <DependentUpon>FormirajTimForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forme\IzmeniRadnika.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forme\IzmeniRadnika.designer.cs">
+      <DependentUpon>IzmeniRadnika.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forme\KarticaRadnici.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forme\KarticaRadnici.designer.cs">
+      <DependentUpon>KarticaRadnici.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forme\KarticaSlobodniDani.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forme\KarticaSlobodniDani.designer.cs">
+      <DependentUpon>KarticaSlobodniDani.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forme\KarticaTimovi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forme\KarticaTimovi.designer.cs">
+      <DependentUpon>KarticaTimovi.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forme\Poruka.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forme\Poruka.Designer.cs">
+      <DependentUpon>Poruka.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forme\PregledProjekataVodja.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forme\PregledProjekataVodja.designer.cs">
+      <DependentUpon>PregledProjekataVodja.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forme\PregledTimovaVodja.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forme\PregledTimovaVodja.designer.cs">
+      <DependentUpon>PregledTimovaVodja.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forme\ProfilRadnik.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forme\ProfilRadnik.designer.cs">
+      <DependentUpon>ProfilRadnik.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forme\ProfilSef.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forme\ProfilSef.designer.cs">
+      <DependentUpon>ProfilSef.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forme\UplataRadnik.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forme\UplataRadnik.designer.cs">
+      <DependentUpon>UplataRadnik.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forme\upravljanjeProjektima.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forme\upravljanjeProjektima.Designer.cs">
+      <DependentUpon>upravljanjeProjektima.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forme\ViseOTimu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forme\ViseOTimu.designer.cs">
+      <DependentUpon>ViseOTimu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forme\ProfilVodja.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forme\ProfilVodja.Designer.cs">
+      <DependentUpon>ProfilVodja.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forme\ZahtevSlobodniDani.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forme\ZahtevSlobodniDani.designer.cs">
+      <DependentUpon>ZahtevSlobodniDani.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="QueryEntities\Placanje.cs" />
+    <Compile Include="QueryEntities\Projekat.cs" />
+    <Compile Include="QueryEntities\Radnik.cs" />
+    <Compile Include="QueryEntities\Sef.cs" />
+    <Compile Include="QueryEntities\SlobodniDani.cs" />
+    <Compile Include="QueryEntities\Tim.cs" />
+    <Compile Include="QueryEntities\Vodja.cs" />
+    <Compile Include="Forme\ZadajZadatakForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forme\ZadajZadatakForm.Designer.cs">
+      <DependentUpon>ZadajZadatakForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="QueryEntities\Zadatak.cs" />
+    <Compile Include="SessionManager.cs" />
+    <EmbeddedResource Include="Forme\AzurirajProjekat.resx">
+      <DependentUpon>AzurirajProjekat.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forme\DodajProjekat.resx">
+      <DependentUpon>DodajProjekat.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forme\DodajRadnika.resx">
+      <DependentUpon>DodajRadnika.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forme\Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forme\FormirajTimForm.resx">
+      <DependentUpon>FormirajTimForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forme\IzmeniRadnika.resx">
+      <DependentUpon>IzmeniRadnika.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forme\KarticaRadnici.resx">
+      <DependentUpon>KarticaRadnici.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forme\KarticaSlobodniDani.resx">
+      <DependentUpon>KarticaSlobodniDani.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forme\KarticaTimovi.resx">
+      <DependentUpon>KarticaTimovi.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forme\Poruka.resx">
+      <DependentUpon>Poruka.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forme\PregledProjekataVodja.resx">
+      <DependentUpon>PregledProjekataVodja.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forme\PregledTimovaVodja.resx">
+      <DependentUpon>PregledTimovaVodja.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forme\ProfilRadnik.resx">
+      <DependentUpon>ProfilRadnik.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forme\ProfilSef.resx">
+      <DependentUpon>ProfilSef.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forme\UplataRadnik.resx">
+      <DependentUpon>UplataRadnik.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forme\upravljanjeProjektima.resx">
+      <DependentUpon>upravljanjeProjektima.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forme\ViseOTimu.resx">
+      <DependentUpon>ViseOTimu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forme\ProfilVodja.resx">
+      <DependentUpon>ProfilVodja.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forme\ZahtevSlobodniDani.resx">
+      <DependentUpon>ZahtevSlobodniDani.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="Forme\ZadajZadatakForm.resx">
+      <DependentUpon>ZadajZadatakForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\login.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

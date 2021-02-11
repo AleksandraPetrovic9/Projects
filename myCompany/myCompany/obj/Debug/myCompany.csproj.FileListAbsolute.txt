@@ -1,0 +1,519 @@
+C:\Users\Djordje\Documents\Visual Studio 2015\Projects\myCompany\myCompany\bin\Debug\myCompany.exe.config
+C:\Users\Djordje\Documents\Visual Studio 2015\Projects\myCompany\myCompany\bin\Debug\myCompany.exe
+C:\Users\Djordje\Documents\Visual Studio 2015\Projects\myCompany\myCompany\bin\Debug\myCompany.pdb
+C:\Users\Djordje\Documents\Visual Studio 2015\Projects\myCompany\myCompany\bin\Debug\Cassandra.dll
+C:\Users\Djordje\Documents\Visual Studio 2015\Projects\myCompany\myCompany\bin\Debug\CqlPoco.dll
+C:\Users\Djordje\Documents\Visual Studio 2015\Projects\myCompany\myCompany\bin\Debug\LZ4.dll
+C:\Users\Djordje\Documents\Visual Studio 2015\Projects\myCompany\myCompany\bin\Debug\Cassandra.xml
+C:\Users\Djordje\Documents\Visual Studio 2015\Projects\myCompany\myCompany\bin\Debug\CqlPoco.pdb
+C:\Users\Djordje\Documents\Visual Studio 2015\Projects\myCompany\myCompany\bin\Debug\CqlPoco.xml
+C:\Users\Djordje\Documents\Visual Studio 2015\Projects\myCompany\myCompany\obj\Debug\myCompany.Properties.Resources.resources
+C:\Users\Djordje\Documents\Visual Studio 2015\Projects\myCompany\myCompany\obj\Debug\myCompany.csproj.GenerateResource.Cache
+C:\Users\Djordje\Documents\Visual Studio 2015\Projects\myCompany\myCompany\obj\Debug\myCompany.exe
+C:\Users\Djordje\Documents\Visual Studio 2015\Projects\myCompany\myCompany\obj\Debug\myCompany.pdb
+C:\Users\Djordje\Documents\Visual Studio 2015\Projects\myCompany\myCompany\obj\Debug\myCompany.Form1.resources
+C:\Users\Djordje\Documents\Visual Studio 2015\Projects\myCompany\myCompany\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Djordje\Documents\Visual Studio 2015\Projects\myCompany\myCompany\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Djordje\Documents\Visual Studio 2015\Projects\myCompany\myCompany\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\Djordje\Documents\Visual Studio 2015\Projects\myCompany\myCompany\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\Djordje\Documents\Visual Studio 2015\Projects\myCompany\myCompany\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Djordje\Documents\Visual Studio 2015\Projects\myCompany\myCompany\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Djordje\Documents\Visual Studio 2015\Projects\myCompany\myCompany\bin\Debug\System.Net.Http.dll
+C:\Users\Djordje\Documents\Visual Studio 2015\Projects\myCompany\myCompany\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\Djordje\Documents\Visual Studio 2015\Projects\myCompany\myCompany\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\Djordje\Documents\Visual Studio 2015\Projects\myCompany\myCompany\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\Djordje\Documents\Visual Studio 2015\Projects\myCompany\myCompany\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Djordje\Documents\Visual Studio 2015\Projects\myCompany\myCompany\bin\Debug\System.Threading.Tasks.Dataflow.dll
+C:\Users\Djordje\Documents\Visual Studio 2015\Projects\myCompany\myCompany\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Djordje\Documents\Visual Studio 2015\Projects\myCompany\myCompany\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\Djordje\Documents\Visual Studio 2015\Projects\myCompany\myCompany\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Djordje\Documents\Visual Studio 2015\Projects\myCompany\myCompany\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Djordje\Documents\Visual Studio 2015\Projects\myCompany\myCompany\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Djordje\Documents\Visual Studio 2015\Projects\myCompany\myCompany\bin\Debug\System.Threading.Tasks.Dataflow.xml
+C:\Users\Djordje\Documents\Visual Studio 2015\Projects\myCompany\myCompany\obj\Debug\myCompany.Forme.FormirajTimForm.resources
+C:\Users\Djordje\Documents\Visual Studio 2015\Projects\myCompany\myCompany\obj\Debug\myCompany.QueryEntities.ZadajZadatakForm.resources
+C:\Users\Djordje\Documents\Visual Studio 2015\Projects\myCompany\myCompany\obj\Debug\myCompany.KarticaSlobodniDani.resources
+C:\Users\Djordje\Documents\Visual Studio 2015\Projects\myCompany\myCompany\obj\Debug\myCompany.KarticaTimovi.resources
+C:\Users\Djordje\Documents\Visual Studio 2015\Projects\myCompany\myCompany\obj\Debug\myCompany.ViseOTimu.resources
+C:\Users\Djordje\Documents\Visual Studio 2015\Projects\myCompany\myCompany\obj\Debug\myCompany.DodajRadnika.resources
+C:\Users\Djordje\Documents\Visual Studio 2015\Projects\myCompany\myCompany\obj\Debug\myCompany.ProfilSef.resources
+C:\Users\Djordje\Documents\Visual Studio 2015\Projects\myCompany\myCompany\obj\Debug\myCompany.IzmeniRadnika.resources
+C:\Users\Djordje\Documents\Visual Studio 2015\Projects\myCompany\myCompany\obj\Debug\myCompany.KarticaRadnici.resources
+C:\Users\Djordje\Documents\Visual Studio 2015\Projects\myCompany\myCompany\obj\Debug\myCompany.ProfilRadnik.resources
+C:\Users\Djordje\Documents\Visual Studio 2015\Projects\myCompany\myCompany\obj\Debug\myCompany.Forme.ProfilVodja.resources
+C:\Users\Djordje\Documents\Visual Studio 2015\Projects\myCompany\myCompany\obj\Debug\myCompany.PregledProjekataVodja.resources
+C:\Users\Djordje\Documents\Visual Studio 2015\Projects\myCompany\myCompany\obj\Debug\myCompany.PregledTimovaVodja.resources
+C:\Users\Djordje\Documents\Visual Studio 2015\Projects\myCompany\myCompany\obj\Debug\myCompany.IsplataRadnik.resources
+C:\Users\Djordje\Documents\Visual Studio 2015\Projects\myCompany\myCompany\obj\Debug\myCompany.ZahtevSlobodniDani.resources
+D:\Downloads\myCompany\myCompany\myCompany\bin\Debug\myCompany.exe.config
+D:\Downloads\myCompany\myCompany\myCompany\bin\Debug\myCompany.exe
+D:\Downloads\myCompany\myCompany\myCompany\bin\Debug\myCompany.pdb
+D:\Downloads\myCompany\myCompany\myCompany\bin\Debug\Cassandra.dll
+D:\Downloads\myCompany\myCompany\myCompany\bin\Debug\CqlPoco.dll
+D:\Downloads\myCompany\myCompany\myCompany\bin\Debug\LZ4.dll
+D:\Downloads\myCompany\myCompany\myCompany\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Downloads\myCompany\myCompany\myCompany\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Downloads\myCompany\myCompany\myCompany\bin\Debug\Microsoft.Extensions.Logging.dll
+D:\Downloads\myCompany\myCompany\myCompany\bin\Debug\Microsoft.Win32.Primitives.dll
+D:\Downloads\myCompany\myCompany\myCompany\bin\Debug\Newtonsoft.Json.dll
+D:\Downloads\myCompany\myCompany\myCompany\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\Downloads\myCompany\myCompany\myCompany\bin\Debug\System.Net.Http.dll
+D:\Downloads\myCompany\myCompany\myCompany\bin\Debug\System.Security.Cryptography.Algorithms.dll
+D:\Downloads\myCompany\myCompany\myCompany\bin\Debug\System.Security.Cryptography.Encoding.dll
+D:\Downloads\myCompany\myCompany\myCompany\bin\Debug\System.Security.Cryptography.Primitives.dll
+D:\Downloads\myCompany\myCompany\myCompany\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+D:\Downloads\myCompany\myCompany\myCompany\bin\Debug\System.Threading.Tasks.Dataflow.dll
+D:\Downloads\myCompany\myCompany\myCompany\bin\Debug\Cassandra.xml
+D:\Downloads\myCompany\myCompany\myCompany\bin\Debug\CqlPoco.pdb
+D:\Downloads\myCompany\myCompany\myCompany\bin\Debug\CqlPoco.xml
+D:\Downloads\myCompany\myCompany\myCompany\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\Downloads\myCompany\myCompany\myCompany\bin\Debug\Microsoft.Extensions.Logging.xml
+D:\Downloads\myCompany\myCompany\myCompany\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+D:\Downloads\myCompany\myCompany\myCompany\bin\Debug\Newtonsoft.Json.xml
+D:\Downloads\myCompany\myCompany\myCompany\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\Downloads\myCompany\myCompany\myCompany\bin\Debug\System.Threading.Tasks.Dataflow.xml
+D:\Downloads\myCompany\myCompany\myCompany\obj\Debug\myCompany.csprojAssemblyReference.cache
+D:\Downloads\myCompany\myCompany\myCompany\obj\Debug\myCompany.DodajRadnika.resources
+D:\Downloads\myCompany\myCompany\myCompany\obj\Debug\myCompany.Form1.resources
+D:\Downloads\myCompany\myCompany\myCompany\obj\Debug\myCompany.Forme.FormirajTimForm.resources
+D:\Downloads\myCompany\myCompany\myCompany\obj\Debug\myCompany.IzmeniRadnika.resources
+D:\Downloads\myCompany\myCompany\myCompany\obj\Debug\myCompany.KarticaRadnici.resources
+D:\Downloads\myCompany\myCompany\myCompany\obj\Debug\myCompany.KarticaSlobodniDani.resources
+D:\Downloads\myCompany\myCompany\myCompany\obj\Debug\myCompany.KarticaTimovi.resources
+D:\Downloads\myCompany\myCompany\myCompany\obj\Debug\myCompany.PregledProjekataVodja.resources
+D:\Downloads\myCompany\myCompany\myCompany\obj\Debug\myCompany.PregledTimovaVodja.resources
+D:\Downloads\myCompany\myCompany\myCompany\obj\Debug\myCompany.ProfilRadnik.resources
+D:\Downloads\myCompany\myCompany\myCompany\obj\Debug\myCompany.ProfilSef.resources
+D:\Downloads\myCompany\myCompany\myCompany\obj\Debug\myCompany.IsplataRadnik.resources
+D:\Downloads\myCompany\myCompany\myCompany\obj\Debug\myCompany.ViseOTimu.resources
+D:\Downloads\myCompany\myCompany\myCompany\obj\Debug\myCompany.Forme.ProfilVodja.resources
+D:\Downloads\myCompany\myCompany\myCompany\obj\Debug\myCompany.ZahtevSlobodniDani.resources
+D:\Downloads\myCompany\myCompany\myCompany\obj\Debug\myCompany.Properties.Resources.resources
+D:\Downloads\myCompany\myCompany\myCompany\obj\Debug\myCompany.QueryEntities.ZadajZadatakForm.resources
+D:\Downloads\myCompany\myCompany\myCompany\obj\Debug\myCompany.csproj.GenerateResource.cache
+D:\Downloads\myCompany\myCompany\myCompany\obj\Debug\myCompany.csproj.CopyComplete
+D:\Downloads\myCompany\myCompany\myCompany\obj\Debug\myCompany.exe
+D:\Downloads\myCompany\myCompany\myCompany\obj\Debug\myCompany.pdb
+C:\Users\Lenovo\Desktop\myCompany\myCompany\myCompany\obj\Debug\myCompany.csprojResolveAssemblyReference.cache
+C:\Users\Lenovo\Desktop\myCompany\myCompany\myCompany\obj\Debug\myCompany.DodajRadnika.resources
+C:\Users\Lenovo\Desktop\myCompany\myCompany\myCompany\obj\Debug\myCompany.Form1.resources
+C:\Users\Lenovo\Desktop\myCompany\myCompany\myCompany\obj\Debug\myCompany.Forme.FormirajTimForm.resources
+C:\Users\Lenovo\Desktop\myCompany\myCompany\myCompany\obj\Debug\myCompany.IzmeniRadnika.resources
+C:\Users\Lenovo\Desktop\myCompany\myCompany\myCompany\obj\Debug\myCompany.KarticaRadnici.resources
+C:\Users\Lenovo\Desktop\myCompany\myCompany\myCompany\obj\Debug\myCompany.KarticaSlobodniDani.resources
+C:\Users\Lenovo\Desktop\myCompany\myCompany\myCompany\obj\Debug\myCompany.KarticaTimovi.resources
+C:\Users\Lenovo\Desktop\myCompany\myCompany\myCompany\obj\Debug\myCompany.PregledProjekataVodja.resources
+C:\Users\Lenovo\Desktop\myCompany\myCompany\myCompany\obj\Debug\myCompany.PregledTimovaVodja.resources
+C:\Users\Lenovo\Desktop\myCompany\myCompany\myCompany\obj\Debug\myCompany.ProfilRadnik.resources
+C:\Users\Lenovo\Desktop\myCompany\myCompany\myCompany\obj\Debug\myCompany.ProfilSef.resources
+C:\Users\Lenovo\Desktop\myCompany\myCompany\myCompany\obj\Debug\myCompany.IsplataRadnik.resources
+C:\Users\Lenovo\Desktop\myCompany\myCompany\myCompany\obj\Debug\myCompany.Forme.upravljanjeProjektima.resources
+C:\Users\Lenovo\Desktop\myCompany\myCompany\myCompany\obj\Debug\myCompany.ViseOTimu.resources
+C:\Users\Lenovo\Desktop\myCompany\myCompany\myCompany\obj\Debug\myCompany.Forme.ProfilVodja.resources
+C:\Users\Lenovo\Desktop\myCompany\myCompany\myCompany\obj\Debug\myCompany.ZahtevSlobodniDani.resources
+C:\Users\Lenovo\Desktop\myCompany\myCompany\myCompany\obj\Debug\myCompany.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\myCompany\myCompany\myCompany\obj\Debug\myCompany.QueryEntities.ZadajZadatakForm.resources
+C:\Users\Lenovo\Desktop\myCompany\myCompany\myCompany\obj\Debug\myCompany.csproj.GenerateResource.cache
+C:\Users\Lenovo\Desktop\myCompany\myCompany\myCompany\obj\Debug\myCompany.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\myCompany\myCompany\myCompany\obj\Debug\myCompany.exe
+C:\Users\Lenovo\Desktop\myCompany\myCompany\myCompany\obj\Debug\myCompany.pdb
+C:\Users\Lenovo\Desktop\myCompany\myCompany\myCompany\bin\Debug\myCompany.exe.config
+C:\Users\Lenovo\Desktop\myCompany\myCompany\myCompany\bin\Debug\myCompany.exe
+C:\Users\Lenovo\Desktop\myCompany\myCompany\myCompany\bin\Debug\myCompany.pdb
+C:\Users\Lenovo\Desktop\myCompany\myCompany\myCompany\bin\Debug\Cassandra.dll
+C:\Users\Lenovo\Desktop\myCompany\myCompany\myCompany\bin\Debug\CqlPoco.dll
+C:\Users\Lenovo\Desktop\myCompany\myCompany\myCompany\bin\Debug\LZ4.dll
+C:\Users\Lenovo\Desktop\myCompany\myCompany\myCompany\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Lenovo\Desktop\myCompany\myCompany\myCompany\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Lenovo\Desktop\myCompany\myCompany\myCompany\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\Lenovo\Desktop\myCompany\myCompany\myCompany\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\Lenovo\Desktop\myCompany\myCompany\myCompany\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Lenovo\Desktop\myCompany\myCompany\myCompany\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Lenovo\Desktop\myCompany\myCompany\myCompany\bin\Debug\System.Net.Http.dll
+C:\Users\Lenovo\Desktop\myCompany\myCompany\myCompany\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\Lenovo\Desktop\myCompany\myCompany\myCompany\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\Lenovo\Desktop\myCompany\myCompany\myCompany\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\Lenovo\Desktop\myCompany\myCompany\myCompany\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Lenovo\Desktop\myCompany\myCompany\myCompany\bin\Debug\System.Threading.Tasks.Dataflow.dll
+C:\Users\Lenovo\Desktop\myCompany\myCompany\myCompany\bin\Debug\Cassandra.xml
+C:\Users\Lenovo\Desktop\myCompany\myCompany\myCompany\bin\Debug\CqlPoco.pdb
+C:\Users\Lenovo\Desktop\myCompany\myCompany\myCompany\bin\Debug\CqlPoco.xml
+C:\Users\Lenovo\Desktop\myCompany\myCompany\myCompany\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Lenovo\Desktop\myCompany\myCompany\myCompany\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\Lenovo\Desktop\myCompany\myCompany\myCompany\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Lenovo\Desktop\myCompany\myCompany\myCompany\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Lenovo\Desktop\myCompany\myCompany\myCompany\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Lenovo\Desktop\myCompany\myCompany\myCompany\bin\Debug\System.Threading.Tasks.Dataflow.xml
+C:\Users\Lenovo\Desktop\myCompany\myCompany\myCompany\obj\Debug\myCompany.Forme.AzurirajProjekat.resources
+C:\Users\Lenovo\Desktop\myCompany\myCompany\myCompany\obj\Debug\myCompany.Forme.DodajProjekat.resources
+C:\Users\Lenovo\Desktop\myCompany\myCompany\myCompany\obj\Debug\myCompany.csproj.CopyComplete
+D:\Repos1\naprednebaze\myCompany\myCompany\bin\Debug\myCompany.exe.config
+D:\Repos1\naprednebaze\myCompany\myCompany\bin\Debug\myCompany.exe
+D:\Repos1\naprednebaze\myCompany\myCompany\bin\Debug\myCompany.pdb
+D:\Repos1\naprednebaze\myCompany\myCompany\bin\Debug\Cassandra.dll
+D:\Repos1\naprednebaze\myCompany\myCompany\bin\Debug\CqlPoco.dll
+D:\Repos1\naprednebaze\myCompany\myCompany\bin\Debug\LZ4.dll
+D:\Repos1\naprednebaze\myCompany\myCompany\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Repos1\naprednebaze\myCompany\myCompany\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Repos1\naprednebaze\myCompany\myCompany\bin\Debug\Microsoft.Extensions.Logging.dll
+D:\Repos1\naprednebaze\myCompany\myCompany\bin\Debug\Microsoft.Win32.Primitives.dll
+D:\Repos1\naprednebaze\myCompany\myCompany\bin\Debug\Newtonsoft.Json.dll
+D:\Repos1\naprednebaze\myCompany\myCompany\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\Repos1\naprednebaze\myCompany\myCompany\bin\Debug\System.Net.Http.dll
+D:\Repos1\naprednebaze\myCompany\myCompany\bin\Debug\System.Security.Cryptography.Algorithms.dll
+D:\Repos1\naprednebaze\myCompany\myCompany\bin\Debug\System.Security.Cryptography.Encoding.dll
+D:\Repos1\naprednebaze\myCompany\myCompany\bin\Debug\System.Security.Cryptography.Primitives.dll
+D:\Repos1\naprednebaze\myCompany\myCompany\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+D:\Repos1\naprednebaze\myCompany\myCompany\bin\Debug\System.Threading.Tasks.Dataflow.dll
+D:\Repos1\naprednebaze\myCompany\myCompany\bin\Debug\Cassandra.xml
+D:\Repos1\naprednebaze\myCompany\myCompany\bin\Debug\CqlPoco.pdb
+D:\Repos1\naprednebaze\myCompany\myCompany\bin\Debug\CqlPoco.xml
+D:\Repos1\naprednebaze\myCompany\myCompany\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\Repos1\naprednebaze\myCompany\myCompany\bin\Debug\Microsoft.Extensions.Logging.xml
+D:\Repos1\naprednebaze\myCompany\myCompany\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+D:\Repos1\naprednebaze\myCompany\myCompany\bin\Debug\Newtonsoft.Json.xml
+D:\Repos1\naprednebaze\myCompany\myCompany\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\Repos1\naprednebaze\myCompany\myCompany\bin\Debug\System.Threading.Tasks.Dataflow.xml
+D:\Repos1\naprednebaze\myCompany\myCompany\obj\Debug\myCompany.csprojAssemblyReference.cache
+D:\Repos1\naprednebaze\myCompany\myCompany\obj\Debug\myCompany.Forme.AzurirajProjekat.resources
+D:\Repos1\naprednebaze\myCompany\myCompany\obj\Debug\myCompany.Forme.DodajProjekat.resources
+D:\Repos1\naprednebaze\myCompany\myCompany\obj\Debug\myCompany.DodajRadnika.resources
+D:\Repos1\naprednebaze\myCompany\myCompany\obj\Debug\myCompany.Form1.resources
+D:\Repos1\naprednebaze\myCompany\myCompany\obj\Debug\myCompany.Forme.FormirajTimForm.resources
+D:\Repos1\naprednebaze\myCompany\myCompany\obj\Debug\myCompany.IzmeniRadnika.resources
+D:\Repos1\naprednebaze\myCompany\myCompany\obj\Debug\myCompany.KarticaRadnici.resources
+D:\Repos1\naprednebaze\myCompany\myCompany\obj\Debug\myCompany.KarticaSlobodniDani.resources
+D:\Repos1\naprednebaze\myCompany\myCompany\obj\Debug\myCompany.KarticaTimovi.resources
+D:\Repos1\naprednebaze\myCompany\myCompany\obj\Debug\myCompany.PregledProjekataVodja.resources
+D:\Repos1\naprednebaze\myCompany\myCompany\obj\Debug\myCompany.PregledTimovaVodja.resources
+D:\Repos1\naprednebaze\myCompany\myCompany\obj\Debug\myCompany.ProfilRadnik.resources
+D:\Repos1\naprednebaze\myCompany\myCompany\obj\Debug\myCompany.ProfilSef.resources
+D:\Repos1\naprednebaze\myCompany\myCompany\obj\Debug\myCompany.IsplataRadnik.resources
+D:\Repos1\naprednebaze\myCompany\myCompany\obj\Debug\myCompany.Forme.upravljanjeProjektima.resources
+D:\Repos1\naprednebaze\myCompany\myCompany\obj\Debug\myCompany.ViseOTimu.resources
+D:\Repos1\naprednebaze\myCompany\myCompany\obj\Debug\myCompany.Forme.ProfilVodja.resources
+D:\Repos1\naprednebaze\myCompany\myCompany\obj\Debug\myCompany.ZahtevSlobodniDani.resources
+D:\Repos1\naprednebaze\myCompany\myCompany\obj\Debug\myCompany.Properties.Resources.resources
+D:\Repos1\naprednebaze\myCompany\myCompany\obj\Debug\myCompany.QueryEntities.ZadajZadatakForm.resources
+D:\Repos1\naprednebaze\myCompany\myCompany\obj\Debug\myCompany.csproj.GenerateResource.cache
+D:\Repos1\naprednebaze\myCompany\myCompany\obj\Debug\myCompany.csproj.CopyComplete
+D:\Repos1\naprednebaze\myCompany\myCompany\obj\Debug\myCompany.exe
+D:\Repos1\naprednebaze\myCompany\myCompany\obj\Debug\myCompany.pdb
+D:\fax4\prviSem\NBP\naprednebaze\myCompany\myCompany\bin\Debug\myCompany.exe.config
+D:\fax4\prviSem\NBP\naprednebaze\myCompany\myCompany\bin\Debug\myCompany.exe
+D:\fax4\prviSem\NBP\naprednebaze\myCompany\myCompany\bin\Debug\myCompany.pdb
+D:\fax4\prviSem\NBP\naprednebaze\myCompany\myCompany\bin\Debug\Cassandra.dll
+D:\fax4\prviSem\NBP\naprednebaze\myCompany\myCompany\bin\Debug\CqlPoco.dll
+D:\fax4\prviSem\NBP\naprednebaze\myCompany\myCompany\bin\Debug\LZ4.dll
+D:\fax4\prviSem\NBP\naprednebaze\myCompany\myCompany\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\fax4\prviSem\NBP\naprednebaze\myCompany\myCompany\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+D:\fax4\prviSem\NBP\naprednebaze\myCompany\myCompany\bin\Debug\Microsoft.Extensions.Logging.dll
+D:\fax4\prviSem\NBP\naprednebaze\myCompany\myCompany\bin\Debug\Microsoft.Win32.Primitives.dll
+D:\fax4\prviSem\NBP\naprednebaze\myCompany\myCompany\bin\Debug\Newtonsoft.Json.dll
+D:\fax4\prviSem\NBP\naprednebaze\myCompany\myCompany\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\fax4\prviSem\NBP\naprednebaze\myCompany\myCompany\bin\Debug\System.Net.Http.dll
+D:\fax4\prviSem\NBP\naprednebaze\myCompany\myCompany\bin\Debug\System.Security.Cryptography.Algorithms.dll
+D:\fax4\prviSem\NBP\naprednebaze\myCompany\myCompany\bin\Debug\System.Security.Cryptography.Encoding.dll
+D:\fax4\prviSem\NBP\naprednebaze\myCompany\myCompany\bin\Debug\System.Security.Cryptography.Primitives.dll
+D:\fax4\prviSem\NBP\naprednebaze\myCompany\myCompany\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+D:\fax4\prviSem\NBP\naprednebaze\myCompany\myCompany\bin\Debug\System.Threading.Tasks.Dataflow.dll
+D:\fax4\prviSem\NBP\naprednebaze\myCompany\myCompany\bin\Debug\Cassandra.xml
+D:\fax4\prviSem\NBP\naprednebaze\myCompany\myCompany\bin\Debug\CqlPoco.pdb
+D:\fax4\prviSem\NBP\naprednebaze\myCompany\myCompany\bin\Debug\CqlPoco.xml
+D:\fax4\prviSem\NBP\naprednebaze\myCompany\myCompany\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\fax4\prviSem\NBP\naprednebaze\myCompany\myCompany\bin\Debug\Microsoft.Extensions.Logging.xml
+D:\fax4\prviSem\NBP\naprednebaze\myCompany\myCompany\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+D:\fax4\prviSem\NBP\naprednebaze\myCompany\myCompany\bin\Debug\Newtonsoft.Json.xml
+D:\fax4\prviSem\NBP\naprednebaze\myCompany\myCompany\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\fax4\prviSem\NBP\naprednebaze\myCompany\myCompany\bin\Debug\System.Threading.Tasks.Dataflow.xml
+D:\fax4\prviSem\NBP\naprednebaze\myCompany\myCompany\obj\Debug\myCompany.csprojResolveAssemblyReference.cache
+D:\fax4\prviSem\NBP\naprednebaze\myCompany\myCompany\obj\Debug\myCompany.Forme.AzurirajProjekat.resources
+D:\fax4\prviSem\NBP\naprednebaze\myCompany\myCompany\obj\Debug\myCompany.Forme.DodajProjekat.resources
+D:\fax4\prviSem\NBP\naprednebaze\myCompany\myCompany\obj\Debug\myCompany.DodajRadnika.resources
+D:\fax4\prviSem\NBP\naprednebaze\myCompany\myCompany\obj\Debug\myCompany.Form1.resources
+D:\fax4\prviSem\NBP\naprednebaze\myCompany\myCompany\obj\Debug\myCompany.Forme.FormirajTimForm.resources
+D:\fax4\prviSem\NBP\naprednebaze\myCompany\myCompany\obj\Debug\myCompany.IzmeniRadnika.resources
+D:\fax4\prviSem\NBP\naprednebaze\myCompany\myCompany\obj\Debug\myCompany.KarticaRadnici.resources
+D:\fax4\prviSem\NBP\naprednebaze\myCompany\myCompany\obj\Debug\myCompany.KarticaSlobodniDani.resources
+D:\fax4\prviSem\NBP\naprednebaze\myCompany\myCompany\obj\Debug\myCompany.KarticaTimovi.resources
+D:\fax4\prviSem\NBP\naprednebaze\myCompany\myCompany\obj\Debug\myCompany.PregledProjekataVodja.resources
+D:\fax4\prviSem\NBP\naprednebaze\myCompany\myCompany\obj\Debug\myCompany.PregledTimovaVodja.resources
+D:\fax4\prviSem\NBP\naprednebaze\myCompany\myCompany\obj\Debug\myCompany.ProfilRadnik.resources
+D:\fax4\prviSem\NBP\naprednebaze\myCompany\myCompany\obj\Debug\myCompany.ProfilSef.resources
+D:\fax4\prviSem\NBP\naprednebaze\myCompany\myCompany\obj\Debug\myCompany.IsplataRadnik.resources
+D:\fax4\prviSem\NBP\naprednebaze\myCompany\myCompany\obj\Debug\myCompany.Forme.upravljanjeProjektima.resources
+D:\fax4\prviSem\NBP\naprednebaze\myCompany\myCompany\obj\Debug\myCompany.ViseOTimu.resources
+D:\fax4\prviSem\NBP\naprednebaze\myCompany\myCompany\obj\Debug\myCompany.Forme.ProfilVodja.resources
+D:\fax4\prviSem\NBP\naprednebaze\myCompany\myCompany\obj\Debug\myCompany.ZahtevSlobodniDani.resources
+D:\fax4\prviSem\NBP\naprednebaze\myCompany\myCompany\obj\Debug\myCompany.Properties.Resources.resources
+D:\fax4\prviSem\NBP\naprednebaze\myCompany\myCompany\obj\Debug\myCompany.QueryEntities.ZadajZadatakForm.resources
+D:\fax4\prviSem\NBP\naprednebaze\myCompany\myCompany\obj\Debug\myCompany.csproj.GenerateResource.cache
+D:\fax4\prviSem\NBP\naprednebaze\myCompany\myCompany\obj\Debug\myCompany.csproj.CoreCompileInputs.cache
+D:\fax4\prviSem\NBP\naprednebaze\myCompany\myCompany\obj\Debug\myCompany.csproj.CopyComplete
+D:\fax4\prviSem\NBP\naprednebaze\myCompany\myCompany\obj\Debug\myCompany.exe
+D:\fax4\prviSem\NBP\naprednebaze\myCompany\myCompany\obj\Debug\myCompany.pdb
+D:\Repos2\naprednebaze\myCompany\myCompany\bin\Debug\myCompany.exe.config
+D:\Repos2\naprednebaze\myCompany\myCompany\bin\Debug\myCompany.exe
+D:\Repos2\naprednebaze\myCompany\myCompany\bin\Debug\myCompany.pdb
+D:\Repos2\naprednebaze\myCompany\myCompany\bin\Debug\Cassandra.dll
+D:\Repos2\naprednebaze\myCompany\myCompany\bin\Debug\CqlPoco.dll
+D:\Repos2\naprednebaze\myCompany\myCompany\bin\Debug\LZ4.dll
+D:\Repos2\naprednebaze\myCompany\myCompany\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Repos2\naprednebaze\myCompany\myCompany\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Repos2\naprednebaze\myCompany\myCompany\bin\Debug\Microsoft.Extensions.Logging.dll
+D:\Repos2\naprednebaze\myCompany\myCompany\bin\Debug\Microsoft.Win32.Primitives.dll
+D:\Repos2\naprednebaze\myCompany\myCompany\bin\Debug\Newtonsoft.Json.dll
+D:\Repos2\naprednebaze\myCompany\myCompany\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\Repos2\naprednebaze\myCompany\myCompany\bin\Debug\System.Net.Http.dll
+D:\Repos2\naprednebaze\myCompany\myCompany\bin\Debug\System.Security.Cryptography.Algorithms.dll
+D:\Repos2\naprednebaze\myCompany\myCompany\bin\Debug\System.Security.Cryptography.Encoding.dll
+D:\Repos2\naprednebaze\myCompany\myCompany\bin\Debug\System.Security.Cryptography.Primitives.dll
+D:\Repos2\naprednebaze\myCompany\myCompany\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+D:\Repos2\naprednebaze\myCompany\myCompany\bin\Debug\System.Threading.Tasks.Dataflow.dll
+D:\Repos2\naprednebaze\myCompany\myCompany\bin\Debug\Cassandra.xml
+D:\Repos2\naprednebaze\myCompany\myCompany\bin\Debug\CqlPoco.pdb
+D:\Repos2\naprednebaze\myCompany\myCompany\bin\Debug\CqlPoco.xml
+D:\Repos2\naprednebaze\myCompany\myCompany\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\Repos2\naprednebaze\myCompany\myCompany\bin\Debug\Microsoft.Extensions.Logging.xml
+D:\Repos2\naprednebaze\myCompany\myCompany\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+D:\Repos2\naprednebaze\myCompany\myCompany\bin\Debug\Newtonsoft.Json.xml
+D:\Repos2\naprednebaze\myCompany\myCompany\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\Repos2\naprednebaze\myCompany\myCompany\bin\Debug\System.Threading.Tasks.Dataflow.xml
+D:\Repos2\naprednebaze\myCompany\myCompany\obj\Debug\myCompany.csprojAssemblyReference.cache
+D:\Repos2\naprednebaze\myCompany\myCompany\obj\Debug\myCompany.Forme.AzurirajProjekat.resources
+D:\Repos2\naprednebaze\myCompany\myCompany\obj\Debug\myCompany.Forme.DodajProjekat.resources
+D:\Repos2\naprednebaze\myCompany\myCompany\obj\Debug\myCompany.DodajRadnika.resources
+D:\Repos2\naprednebaze\myCompany\myCompany\obj\Debug\myCompany.Form1.resources
+D:\Repos2\naprednebaze\myCompany\myCompany\obj\Debug\myCompany.Forme.FormirajTimForm.resources
+D:\Repos2\naprednebaze\myCompany\myCompany\obj\Debug\myCompany.IzmeniRadnika.resources
+D:\Repos2\naprednebaze\myCompany\myCompany\obj\Debug\myCompany.KarticaRadnici.resources
+D:\Repos2\naprednebaze\myCompany\myCompany\obj\Debug\myCompany.KarticaSlobodniDani.resources
+D:\Repos2\naprednebaze\myCompany\myCompany\obj\Debug\myCompany.KarticaTimovi.resources
+D:\Repos2\naprednebaze\myCompany\myCompany\obj\Debug\myCompany.PregledProjekataVodja.resources
+D:\Repos2\naprednebaze\myCompany\myCompany\obj\Debug\myCompany.PregledTimovaVodja.resources
+D:\Repos2\naprednebaze\myCompany\myCompany\obj\Debug\myCompany.ProfilRadnik.resources
+D:\Repos2\naprednebaze\myCompany\myCompany\obj\Debug\myCompany.ProfilSef.resources
+D:\Repos2\naprednebaze\myCompany\myCompany\obj\Debug\myCompany.IsplataRadnik.resources
+D:\Repos2\naprednebaze\myCompany\myCompany\obj\Debug\myCompany.Forme.upravljanjeProjektima.resources
+D:\Repos2\naprednebaze\myCompany\myCompany\obj\Debug\myCompany.ViseOTimu.resources
+D:\Repos2\naprednebaze\myCompany\myCompany\obj\Debug\myCompany.Forme.ProfilVodja.resources
+D:\Repos2\naprednebaze\myCompany\myCompany\obj\Debug\myCompany.ZahtevSlobodniDani.resources
+D:\Repos2\naprednebaze\myCompany\myCompany\obj\Debug\myCompany.Properties.Resources.resources
+D:\Repos2\naprednebaze\myCompany\myCompany\obj\Debug\myCompany.QueryEntities.ZadajZadatakForm.resources
+D:\Repos2\naprednebaze\myCompany\myCompany\obj\Debug\myCompany.csproj.GenerateResource.cache
+D:\Repos2\naprednebaze\myCompany\myCompany\obj\Debug\myCompany.csproj.CopyComplete
+D:\Repos2\naprednebaze\myCompany\myCompany\obj\Debug\myCompany.exe
+D:\Repos2\naprednebaze\myCompany\myCompany\obj\Debug\myCompany.pdb
+D:\Git projekti\naprednebaze\MyCompany-dizajn\myCompany\myCompany\bin\Debug\myCompany.exe.config
+D:\Git projekti\naprednebaze\MyCompany-dizajn\myCompany\myCompany\bin\Debug\myCompany.exe
+D:\Git projekti\naprednebaze\MyCompany-dizajn\myCompany\myCompany\bin\Debug\myCompany.pdb
+D:\Git projekti\naprednebaze\MyCompany-dizajn\myCompany\myCompany\bin\Debug\Cassandra.dll
+D:\Git projekti\naprednebaze\MyCompany-dizajn\myCompany\myCompany\bin\Debug\CqlPoco.dll
+D:\Git projekti\naprednebaze\MyCompany-dizajn\myCompany\myCompany\bin\Debug\LZ4.dll
+D:\Git projekti\naprednebaze\MyCompany-dizajn\myCompany\myCompany\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Git projekti\naprednebaze\MyCompany-dizajn\myCompany\myCompany\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Git projekti\naprednebaze\MyCompany-dizajn\myCompany\myCompany\bin\Debug\Microsoft.Extensions.Logging.dll
+D:\Git projekti\naprednebaze\MyCompany-dizajn\myCompany\myCompany\bin\Debug\Microsoft.Win32.Primitives.dll
+D:\Git projekti\naprednebaze\MyCompany-dizajn\myCompany\myCompany\bin\Debug\Newtonsoft.Json.dll
+D:\Git projekti\naprednebaze\MyCompany-dizajn\myCompany\myCompany\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\Git projekti\naprednebaze\MyCompany-dizajn\myCompany\myCompany\bin\Debug\System.Net.Http.dll
+D:\Git projekti\naprednebaze\MyCompany-dizajn\myCompany\myCompany\bin\Debug\System.Security.Cryptography.Algorithms.dll
+D:\Git projekti\naprednebaze\MyCompany-dizajn\myCompany\myCompany\bin\Debug\System.Security.Cryptography.Encoding.dll
+D:\Git projekti\naprednebaze\MyCompany-dizajn\myCompany\myCompany\bin\Debug\System.Security.Cryptography.Primitives.dll
+D:\Git projekti\naprednebaze\MyCompany-dizajn\myCompany\myCompany\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+D:\Git projekti\naprednebaze\MyCompany-dizajn\myCompany\myCompany\bin\Debug\System.Threading.Tasks.Dataflow.dll
+D:\Git projekti\naprednebaze\MyCompany-dizajn\myCompany\myCompany\bin\Debug\Cassandra.xml
+D:\Git projekti\naprednebaze\MyCompany-dizajn\myCompany\myCompany\bin\Debug\CqlPoco.pdb
+D:\Git projekti\naprednebaze\MyCompany-dizajn\myCompany\myCompany\bin\Debug\CqlPoco.xml
+D:\Git projekti\naprednebaze\MyCompany-dizajn\myCompany\myCompany\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\Git projekti\naprednebaze\MyCompany-dizajn\myCompany\myCompany\bin\Debug\Microsoft.Extensions.Logging.xml
+D:\Git projekti\naprednebaze\MyCompany-dizajn\myCompany\myCompany\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+D:\Git projekti\naprednebaze\MyCompany-dizajn\myCompany\myCompany\bin\Debug\Newtonsoft.Json.xml
+D:\Git projekti\naprednebaze\MyCompany-dizajn\myCompany\myCompany\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\Git projekti\naprednebaze\MyCompany-dizajn\myCompany\myCompany\bin\Debug\System.Threading.Tasks.Dataflow.xml
+D:\Git projekti\naprednebaze\MyCompany-dizajn\myCompany\myCompany\obj\Debug\myCompany.csprojAssemblyReference.cache
+D:\Git projekti\naprednebaze\MyCompany-dizajn\myCompany\myCompany\obj\Debug\myCompany.Forme.AzurirajProjekat.resources
+D:\Git projekti\naprednebaze\MyCompany-dizajn\myCompany\myCompany\obj\Debug\myCompany.Forme.DodajProjekat.resources
+D:\Git projekti\naprednebaze\MyCompany-dizajn\myCompany\myCompany\obj\Debug\myCompany.DodajRadnika.resources
+D:\Git projekti\naprednebaze\MyCompany-dizajn\myCompany\myCompany\obj\Debug\myCompany.Form1.resources
+D:\Git projekti\naprednebaze\MyCompany-dizajn\myCompany\myCompany\obj\Debug\myCompany.Forme.FormirajTimForm.resources
+D:\Git projekti\naprednebaze\MyCompany-dizajn\myCompany\myCompany\obj\Debug\myCompany.IzmeniRadnika.resources
+D:\Git projekti\naprednebaze\MyCompany-dizajn\myCompany\myCompany\obj\Debug\myCompany.KarticaRadnici.resources
+D:\Git projekti\naprednebaze\MyCompany-dizajn\myCompany\myCompany\obj\Debug\myCompany.KarticaSlobodniDani.resources
+D:\Git projekti\naprednebaze\MyCompany-dizajn\myCompany\myCompany\obj\Debug\myCompany.KarticaTimovi.resources
+D:\Git projekti\naprednebaze\MyCompany-dizajn\myCompany\myCompany\obj\Debug\myCompany.PregledProjekataVodja.resources
+D:\Git projekti\naprednebaze\MyCompany-dizajn\myCompany\myCompany\obj\Debug\myCompany.PregledTimovaVodja.resources
+D:\Git projekti\naprednebaze\MyCompany-dizajn\myCompany\myCompany\obj\Debug\myCompany.ProfilRadnik.resources
+D:\Git projekti\naprednebaze\MyCompany-dizajn\myCompany\myCompany\obj\Debug\myCompany.ProfilSef.resources
+D:\Git projekti\naprednebaze\MyCompany-dizajn\myCompany\myCompany\obj\Debug\myCompany.IsplataRadnik.resources
+D:\Git projekti\naprednebaze\MyCompany-dizajn\myCompany\myCompany\obj\Debug\myCompany.Forme.upravljanjeProjektima.resources
+D:\Git projekti\naprednebaze\MyCompany-dizajn\myCompany\myCompany\obj\Debug\myCompany.ViseOTimu.resources
+D:\Git projekti\naprednebaze\MyCompany-dizajn\myCompany\myCompany\obj\Debug\myCompany.Forme.ProfilVodja.resources
+D:\Git projekti\naprednebaze\MyCompany-dizajn\myCompany\myCompany\obj\Debug\myCompany.ZahtevSlobodniDani.resources
+D:\Git projekti\naprednebaze\MyCompany-dizajn\myCompany\myCompany\obj\Debug\myCompany.Properties.Resources.resources
+D:\Git projekti\naprednebaze\MyCompany-dizajn\myCompany\myCompany\obj\Debug\myCompany.QueryEntities.ZadajZadatakForm.resources
+D:\Git projekti\naprednebaze\MyCompany-dizajn\myCompany\myCompany\obj\Debug\myCompany.csproj.GenerateResource.cache
+D:\Git projekti\naprednebaze\MyCompany-dizajn\myCompany\myCompany\obj\Debug\myCompany.csproj.CopyComplete
+D:\Git projekti\naprednebaze\MyCompany-dizajn\myCompany\myCompany\obj\Debug\myCompany.exe
+D:\Git projekti\naprednebaze\MyCompany-dizajn\myCompany\myCompany\obj\Debug\myCompany.pdb
+D:\Git projekti\naprednebaze\MyCompany-dizajn\myCompany\myCompany\obj\Debug\myCompany.Forme.Poruka.resources
+D:\Repos5\naprednebaze\MyCompany-dizajn\myCompany\myCompany\bin\Debug\myCompany.exe.config
+D:\Repos5\naprednebaze\MyCompany-dizajn\myCompany\myCompany\bin\Debug\myCompany.exe
+D:\Repos5\naprednebaze\MyCompany-dizajn\myCompany\myCompany\bin\Debug\myCompany.pdb
+D:\Repos5\naprednebaze\MyCompany-dizajn\myCompany\myCompany\bin\Debug\Cassandra.dll
+D:\Repos5\naprednebaze\MyCompany-dizajn\myCompany\myCompany\bin\Debug\CqlPoco.dll
+D:\Repos5\naprednebaze\MyCompany-dizajn\myCompany\myCompany\bin\Debug\LZ4.dll
+D:\Repos5\naprednebaze\MyCompany-dizajn\myCompany\myCompany\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Repos5\naprednebaze\MyCompany-dizajn\myCompany\myCompany\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Repos5\naprednebaze\MyCompany-dizajn\myCompany\myCompany\bin\Debug\Microsoft.Extensions.Logging.dll
+D:\Repos5\naprednebaze\MyCompany-dizajn\myCompany\myCompany\bin\Debug\Microsoft.Win32.Primitives.dll
+D:\Repos5\naprednebaze\MyCompany-dizajn\myCompany\myCompany\bin\Debug\Newtonsoft.Json.dll
+D:\Repos5\naprednebaze\MyCompany-dizajn\myCompany\myCompany\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\Repos5\naprednebaze\MyCompany-dizajn\myCompany\myCompany\bin\Debug\System.Net.Http.dll
+D:\Repos5\naprednebaze\MyCompany-dizajn\myCompany\myCompany\bin\Debug\System.Security.Cryptography.Algorithms.dll
+D:\Repos5\naprednebaze\MyCompany-dizajn\myCompany\myCompany\bin\Debug\System.Security.Cryptography.Encoding.dll
+D:\Repos5\naprednebaze\MyCompany-dizajn\myCompany\myCompany\bin\Debug\System.Security.Cryptography.Primitives.dll
+D:\Repos5\naprednebaze\MyCompany-dizajn\myCompany\myCompany\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+D:\Repos5\naprednebaze\MyCompany-dizajn\myCompany\myCompany\bin\Debug\System.Threading.Tasks.Dataflow.dll
+D:\Repos5\naprednebaze\MyCompany-dizajn\myCompany\myCompany\bin\Debug\Cassandra.xml
+D:\Repos5\naprednebaze\MyCompany-dizajn\myCompany\myCompany\bin\Debug\CqlPoco.pdb
+D:\Repos5\naprednebaze\MyCompany-dizajn\myCompany\myCompany\bin\Debug\CqlPoco.xml
+D:\Repos5\naprednebaze\MyCompany-dizajn\myCompany\myCompany\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\Repos5\naprednebaze\MyCompany-dizajn\myCompany\myCompany\bin\Debug\Microsoft.Extensions.Logging.xml
+D:\Repos5\naprednebaze\MyCompany-dizajn\myCompany\myCompany\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+D:\Repos5\naprednebaze\MyCompany-dizajn\myCompany\myCompany\bin\Debug\Newtonsoft.Json.xml
+D:\Repos5\naprednebaze\MyCompany-dizajn\myCompany\myCompany\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\Repos5\naprednebaze\MyCompany-dizajn\myCompany\myCompany\bin\Debug\System.Threading.Tasks.Dataflow.xml
+D:\Repos5\naprednebaze\MyCompany-dizajn\myCompany\myCompany\obj\Debug\myCompany.csprojAssemblyReference.cache
+D:\Repos5\naprednebaze\MyCompany-dizajn\myCompany\myCompany\obj\Debug\myCompany.Forme.AzurirajProjekat.resources
+D:\Repos5\naprednebaze\MyCompany-dizajn\myCompany\myCompany\obj\Debug\myCompany.Forme.DodajProjekat.resources
+D:\Repos5\naprednebaze\MyCompany-dizajn\myCompany\myCompany\obj\Debug\myCompany.DodajRadnika.resources
+D:\Repos5\naprednebaze\MyCompany-dizajn\myCompany\myCompany\obj\Debug\myCompany.Form1.resources
+D:\Repos5\naprednebaze\MyCompany-dizajn\myCompany\myCompany\obj\Debug\myCompany.Forme.FormirajTimForm.resources
+D:\Repos5\naprednebaze\MyCompany-dizajn\myCompany\myCompany\obj\Debug\myCompany.IzmeniRadnika.resources
+D:\Repos5\naprednebaze\MyCompany-dizajn\myCompany\myCompany\obj\Debug\myCompany.KarticaRadnici.resources
+D:\Repos5\naprednebaze\MyCompany-dizajn\myCompany\myCompany\obj\Debug\myCompany.KarticaSlobodniDani.resources
+D:\Repos5\naprednebaze\MyCompany-dizajn\myCompany\myCompany\obj\Debug\myCompany.KarticaTimovi.resources
+D:\Repos5\naprednebaze\MyCompany-dizajn\myCompany\myCompany\obj\Debug\myCompany.Forme.Poruka.resources
+D:\Repos5\naprednebaze\MyCompany-dizajn\myCompany\myCompany\obj\Debug\myCompany.PregledProjekataVodja.resources
+D:\Repos5\naprednebaze\MyCompany-dizajn\myCompany\myCompany\obj\Debug\myCompany.PregledTimovaVodja.resources
+D:\Repos5\naprednebaze\MyCompany-dizajn\myCompany\myCompany\obj\Debug\myCompany.ProfilRadnik.resources
+D:\Repos5\naprednebaze\MyCompany-dizajn\myCompany\myCompany\obj\Debug\myCompany.ProfilSef.resources
+D:\Repos5\naprednebaze\MyCompany-dizajn\myCompany\myCompany\obj\Debug\myCompany.IsplataRadnik.resources
+D:\Repos5\naprednebaze\MyCompany-dizajn\myCompany\myCompany\obj\Debug\myCompany.Forme.upravljanjeProjektima.resources
+D:\Repos5\naprednebaze\MyCompany-dizajn\myCompany\myCompany\obj\Debug\myCompany.ViseOTimu.resources
+D:\Repos5\naprednebaze\MyCompany-dizajn\myCompany\myCompany\obj\Debug\myCompany.Forme.ProfilVodja.resources
+D:\Repos5\naprednebaze\MyCompany-dizajn\myCompany\myCompany\obj\Debug\myCompany.ZahtevSlobodniDani.resources
+D:\Repos5\naprednebaze\MyCompany-dizajn\myCompany\myCompany\obj\Debug\myCompany.Properties.Resources.resources
+D:\Repos5\naprednebaze\MyCompany-dizajn\myCompany\myCompany\obj\Debug\myCompany.QueryEntities.ZadajZadatakForm.resources
+D:\Repos5\naprednebaze\MyCompany-dizajn\myCompany\myCompany\obj\Debug\myCompany.csproj.GenerateResource.cache
+D:\Repos5\naprednebaze\MyCompany-dizajn\myCompany\myCompany\obj\Debug\myCompany.csproj.CopyComplete
+D:\Repos5\naprednebaze\MyCompany-dizajn\myCompany\myCompany\obj\Debug\myCompany.exe
+D:\Repos5\naprednebaze\MyCompany-dizajn\myCompany\myCompany\obj\Debug\myCompany.pdb
+D:\Git konacno\naprednebaze\MyCompany-dizajn\myCompany\myCompany\bin\Debug\myCompany.exe.config
+D:\Git konacno\naprednebaze\MyCompany-dizajn\myCompany\myCompany\bin\Debug\myCompany.exe
+D:\Git konacno\naprednebaze\MyCompany-dizajn\myCompany\myCompany\bin\Debug\myCompany.pdb
+D:\Git konacno\naprednebaze\MyCompany-dizajn\myCompany\myCompany\bin\Debug\Cassandra.dll
+D:\Git konacno\naprednebaze\MyCompany-dizajn\myCompany\myCompany\bin\Debug\CqlPoco.dll
+D:\Git konacno\naprednebaze\MyCompany-dizajn\myCompany\myCompany\bin\Debug\LZ4.dll
+D:\Git konacno\naprednebaze\MyCompany-dizajn\myCompany\myCompany\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Git konacno\naprednebaze\MyCompany-dizajn\myCompany\myCompany\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Git konacno\naprednebaze\MyCompany-dizajn\myCompany\myCompany\bin\Debug\Microsoft.Extensions.Logging.dll
+D:\Git konacno\naprednebaze\MyCompany-dizajn\myCompany\myCompany\bin\Debug\Microsoft.Win32.Primitives.dll
+D:\Git konacno\naprednebaze\MyCompany-dizajn\myCompany\myCompany\bin\Debug\Newtonsoft.Json.dll
+D:\Git konacno\naprednebaze\MyCompany-dizajn\myCompany\myCompany\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\Git konacno\naprednebaze\MyCompany-dizajn\myCompany\myCompany\bin\Debug\System.Net.Http.dll
+D:\Git konacno\naprednebaze\MyCompany-dizajn\myCompany\myCompany\bin\Debug\System.Security.Cryptography.Algorithms.dll
+D:\Git konacno\naprednebaze\MyCompany-dizajn\myCompany\myCompany\bin\Debug\System.Security.Cryptography.Encoding.dll
+D:\Git konacno\naprednebaze\MyCompany-dizajn\myCompany\myCompany\bin\Debug\System.Security.Cryptography.Primitives.dll
+D:\Git konacno\naprednebaze\MyCompany-dizajn\myCompany\myCompany\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+D:\Git konacno\naprednebaze\MyCompany-dizajn\myCompany\myCompany\bin\Debug\System.Threading.Tasks.Dataflow.dll
+D:\Git konacno\naprednebaze\MyCompany-dizajn\myCompany\myCompany\bin\Debug\Cassandra.xml
+D:\Git konacno\naprednebaze\MyCompany-dizajn\myCompany\myCompany\bin\Debug\CqlPoco.pdb
+D:\Git konacno\naprednebaze\MyCompany-dizajn\myCompany\myCompany\bin\Debug\CqlPoco.xml
+D:\Git konacno\naprednebaze\MyCompany-dizajn\myCompany\myCompany\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\Git konacno\naprednebaze\MyCompany-dizajn\myCompany\myCompany\bin\Debug\Microsoft.Extensions.Logging.xml
+D:\Git konacno\naprednebaze\MyCompany-dizajn\myCompany\myCompany\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+D:\Git konacno\naprednebaze\MyCompany-dizajn\myCompany\myCompany\bin\Debug\Newtonsoft.Json.xml
+D:\Git konacno\naprednebaze\MyCompany-dizajn\myCompany\myCompany\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\Git konacno\naprednebaze\MyCompany-dizajn\myCompany\myCompany\bin\Debug\System.Threading.Tasks.Dataflow.xml
+D:\Git konacno\naprednebaze\MyCompany-dizajn\myCompany\myCompany\obj\Debug\myCompany.csprojAssemblyReference.cache
+D:\Git konacno\naprednebaze\MyCompany-dizajn\myCompany\myCompany\obj\Debug\myCompany.Forme.AzurirajProjekat.resources
+D:\Git konacno\naprednebaze\MyCompany-dizajn\myCompany\myCompany\obj\Debug\myCompany.Forme.DodajProjekat.resources
+D:\Git konacno\naprednebaze\MyCompany-dizajn\myCompany\myCompany\obj\Debug\myCompany.DodajRadnika.resources
+D:\Git konacno\naprednebaze\MyCompany-dizajn\myCompany\myCompany\obj\Debug\myCompany.Form1.resources
+D:\Git konacno\naprednebaze\MyCompany-dizajn\myCompany\myCompany\obj\Debug\myCompany.Forme.FormirajTimForm.resources
+D:\Git konacno\naprednebaze\MyCompany-dizajn\myCompany\myCompany\obj\Debug\myCompany.IzmeniRadnika.resources
+D:\Git konacno\naprednebaze\MyCompany-dizajn\myCompany\myCompany\obj\Debug\myCompany.KarticaRadnici.resources
+D:\Git konacno\naprednebaze\MyCompany-dizajn\myCompany\myCompany\obj\Debug\myCompany.KarticaSlobodniDani.resources
+D:\Git konacno\naprednebaze\MyCompany-dizajn\myCompany\myCompany\obj\Debug\myCompany.KarticaTimovi.resources
+D:\Git konacno\naprednebaze\MyCompany-dizajn\myCompany\myCompany\obj\Debug\myCompany.Forme.Poruka.resources
+D:\Git konacno\naprednebaze\MyCompany-dizajn\myCompany\myCompany\obj\Debug\myCompany.PregledProjekataVodja.resources
+D:\Git konacno\naprednebaze\MyCompany-dizajn\myCompany\myCompany\obj\Debug\myCompany.PregledTimovaVodja.resources
+D:\Git konacno\naprednebaze\MyCompany-dizajn\myCompany\myCompany\obj\Debug\myCompany.ProfilRadnik.resources
+D:\Git konacno\naprednebaze\MyCompany-dizajn\myCompany\myCompany\obj\Debug\myCompany.ProfilSef.resources
+D:\Git konacno\naprednebaze\MyCompany-dizajn\myCompany\myCompany\obj\Debug\myCompany.IsplataRadnik.resources
+D:\Git konacno\naprednebaze\MyCompany-dizajn\myCompany\myCompany\obj\Debug\myCompany.Forme.upravljanjeProjektima.resources
+D:\Git konacno\naprednebaze\MyCompany-dizajn\myCompany\myCompany\obj\Debug\myCompany.ViseOTimu.resources
+D:\Git konacno\naprednebaze\MyCompany-dizajn\myCompany\myCompany\obj\Debug\myCompany.Forme.ProfilVodja.resources
+D:\Git konacno\naprednebaze\MyCompany-dizajn\myCompany\myCompany\obj\Debug\myCompany.ZahtevSlobodniDani.resources
+D:\Git konacno\naprednebaze\MyCompany-dizajn\myCompany\myCompany\obj\Debug\myCompany.Properties.Resources.resources
+D:\Git konacno\naprednebaze\MyCompany-dizajn\myCompany\myCompany\obj\Debug\myCompany.QueryEntities.ZadajZadatakForm.resources
+D:\Git konacno\naprednebaze\MyCompany-dizajn\myCompany\myCompany\obj\Debug\myCompany.csproj.GenerateResource.cache
+D:\Git konacno\naprednebaze\MyCompany-dizajn\myCompany\myCompany\obj\Debug\myCompany.csproj.CopyComplete
+D:\Git konacno\naprednebaze\MyCompany-dizajn\myCompany\myCompany\obj\Debug\myCompany.exe
+D:\Git konacno\naprednebaze\MyCompany-dizajn\myCompany\myCompany\obj\Debug\myCompany.pdb
+D:\REPOS\r6\naprednebaze\II-domaci\myCompany\myCompany\bin\Debug\myCompany.exe.config
+D:\REPOS\r6\naprednebaze\II-domaci\myCompany\myCompany\bin\Debug\myCompany.exe
+D:\REPOS\r6\naprednebaze\II-domaci\myCompany\myCompany\bin\Debug\myCompany.pdb
+D:\REPOS\r6\naprednebaze\II-domaci\myCompany\myCompany\bin\Debug\Cassandra.dll
+D:\REPOS\r6\naprednebaze\II-domaci\myCompany\myCompany\bin\Debug\CqlPoco.dll
+D:\REPOS\r6\naprednebaze\II-domaci\myCompany\myCompany\bin\Debug\LZ4.dll
+D:\REPOS\r6\naprednebaze\II-domaci\myCompany\myCompany\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\REPOS\r6\naprednebaze\II-domaci\myCompany\myCompany\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+D:\REPOS\r6\naprednebaze\II-domaci\myCompany\myCompany\bin\Debug\Microsoft.Extensions.Logging.dll
+D:\REPOS\r6\naprednebaze\II-domaci\myCompany\myCompany\bin\Debug\Microsoft.Win32.Primitives.dll
+D:\REPOS\r6\naprednebaze\II-domaci\myCompany\myCompany\bin\Debug\Newtonsoft.Json.dll
+D:\REPOS\r6\naprednebaze\II-domaci\myCompany\myCompany\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\REPOS\r6\naprednebaze\II-domaci\myCompany\myCompany\bin\Debug\System.Net.Http.dll
+D:\REPOS\r6\naprednebaze\II-domaci\myCompany\myCompany\bin\Debug\System.Security.Cryptography.Algorithms.dll
+D:\REPOS\r6\naprednebaze\II-domaci\myCompany\myCompany\bin\Debug\System.Security.Cryptography.Encoding.dll
+D:\REPOS\r6\naprednebaze\II-domaci\myCompany\myCompany\bin\Debug\System.Security.Cryptography.Primitives.dll
+D:\REPOS\r6\naprednebaze\II-domaci\myCompany\myCompany\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+D:\REPOS\r6\naprednebaze\II-domaci\myCompany\myCompany\bin\Debug\System.Threading.Tasks.Dataflow.dll
+D:\REPOS\r6\naprednebaze\II-domaci\myCompany\myCompany\bin\Debug\Cassandra.xml
+D:\REPOS\r6\naprednebaze\II-domaci\myCompany\myCompany\bin\Debug\CqlPoco.pdb
+D:\REPOS\r6\naprednebaze\II-domaci\myCompany\myCompany\bin\Debug\CqlPoco.xml
+D:\REPOS\r6\naprednebaze\II-domaci\myCompany\myCompany\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\REPOS\r6\naprednebaze\II-domaci\myCompany\myCompany\bin\Debug\Microsoft.Extensions.Logging.xml
+D:\REPOS\r6\naprednebaze\II-domaci\myCompany\myCompany\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+D:\REPOS\r6\naprednebaze\II-domaci\myCompany\myCompany\bin\Debug\Newtonsoft.Json.xml
+D:\REPOS\r6\naprednebaze\II-domaci\myCompany\myCompany\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\REPOS\r6\naprednebaze\II-domaci\myCompany\myCompany\bin\Debug\System.Threading.Tasks.Dataflow.xml
+D:\REPOS\r6\naprednebaze\II-domaci\myCompany\myCompany\obj\Debug\myCompany.csprojAssemblyReference.cache
+D:\REPOS\r6\naprednebaze\II-domaci\myCompany\myCompany\obj\Debug\myCompany.Forme.AzurirajProjekat.resources
+D:\REPOS\r6\naprednebaze\II-domaci\myCompany\myCompany\obj\Debug\myCompany.Forme.DodajProjekat.resources
+D:\REPOS\r6\naprednebaze\II-domaci\myCompany\myCompany\obj\Debug\myCompany.DodajRadnika.resources
+D:\REPOS\r6\naprednebaze\II-domaci\myCompany\myCompany\obj\Debug\myCompany.Form1.resources
+D:\REPOS\r6\naprednebaze\II-domaci\myCompany\myCompany\obj\Debug\myCompany.Forme.FormirajTimForm.resources
+D:\REPOS\r6\naprednebaze\II-domaci\myCompany\myCompany\obj\Debug\myCompany.IzmeniRadnika.resources
+D:\REPOS\r6\naprednebaze\II-domaci\myCompany\myCompany\obj\Debug\myCompany.KarticaRadnici.resources
+D:\REPOS\r6\naprednebaze\II-domaci\myCompany\myCompany\obj\Debug\myCompany.KarticaSlobodniDani.resources
+D:\REPOS\r6\naprednebaze\II-domaci\myCompany\myCompany\obj\Debug\myCompany.KarticaTimovi.resources
+D:\REPOS\r6\naprednebaze\II-domaci\myCompany\myCompany\obj\Debug\myCompany.Forme.Poruka.resources
+D:\REPOS\r6\naprednebaze\II-domaci\myCompany\myCompany\obj\Debug\myCompany.PregledProjekataVodja.resources
+D:\REPOS\r6\naprednebaze\II-domaci\myCompany\myCompany\obj\Debug\myCompany.PregledTimovaVodja.resources
+D:\REPOS\r6\naprednebaze\II-domaci\myCompany\myCompany\obj\Debug\myCompany.ProfilRadnik.resources
+D:\REPOS\r6\naprednebaze\II-domaci\myCompany\myCompany\obj\Debug\myCompany.ProfilSef.resources
+D:\REPOS\r6\naprednebaze\II-domaci\myCompany\myCompany\obj\Debug\myCompany.IsplataRadnik.resources
+D:\REPOS\r6\naprednebaze\II-domaci\myCompany\myCompany\obj\Debug\myCompany.Forme.upravljanjeProjektima.resources
+D:\REPOS\r6\naprednebaze\II-domaci\myCompany\myCompany\obj\Debug\myCompany.ViseOTimu.resources
+D:\REPOS\r6\naprednebaze\II-domaci\myCompany\myCompany\obj\Debug\myCompany.Forme.ProfilVodja.resources
+D:\REPOS\r6\naprednebaze\II-domaci\myCompany\myCompany\obj\Debug\myCompany.ZahtevSlobodniDani.resources
+D:\REPOS\r6\naprednebaze\II-domaci\myCompany\myCompany\obj\Debug\myCompany.Properties.Resources.resources
+D:\REPOS\r6\naprednebaze\II-domaci\myCompany\myCompany\obj\Debug\myCompany.QueryEntities.ZadajZadatakForm.resources
+D:\REPOS\r6\naprednebaze\II-domaci\myCompany\myCompany\obj\Debug\myCompany.csproj.GenerateResource.cache
+D:\REPOS\r6\naprednebaze\II-domaci\myCompany\myCompany\obj\Debug\myCompany.csproj.CopyComplete
+D:\REPOS\r6\naprednebaze\II-domaci\myCompany\myCompany\obj\Debug\myCompany.exe
+D:\REPOS\r6\naprednebaze\II-domaci\myCompany\myCompany\obj\Debug\myCompany.pdb
+D:\REPOS\r6\naprednebaze\II-domaci\myCompany\myCompany\obj\Debug\myCompany.csproj.CoreCompileInputs.cache

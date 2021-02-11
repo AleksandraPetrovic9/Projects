@@ -1,0 +1,160 @@
+INSERT INTO "Radnik" ("idRadnika", "email", "ime", "jmbg", "odmor", "plata", "prezime", "racun", "slobodan", "telefon", "zanimanje")
+VALUES (
+    '2',
+    'maja@radnik.com',
+    'Maja',
+    '12345688889',
+    '7',
+    '20000',
+    'Petrovic',
+    '12663',
+    'ne',
+    '06518000',
+    'tester');
+	
+INSERT INTO "Radnik" ("idRadnika", "email", "ime", "jmbg", "odmor", "plata", "prezime", "racun", "slobodan", "telefon", "zanimanje")
+VALUES (
+    '1',
+    'marko@radnik.com',
+    'Marko',
+    '123456888800',
+    '5',
+    '90000',
+    'Petrovic',
+    '12663',
+    'ne',
+    '06518000',
+    'tester');
+	
+	
+INSERT INTO "Sef" ("idSefa", "email", "ime", "jmbg", "prezime", "racun", "telefon")
+VALUES (
+    '1',
+    'sara@sef.com',
+    'Sara',
+    '213229898982',
+    'Peric',
+    '32123223',
+    '2343');
+INSERT INTO "Sef" ("idSefa", "email", "ime", "jmbg", "prezime", "racun", "telefon")
+VALUES (
+    '2',
+    'nikola@sef.com',
+    'Nikola',
+    '213229898985',
+    'Vulic',
+    '3212323',
+    '2555543');
+	
+INSERT INTO "Tim" ("idTima", "aktivan", "idRadnika", "idVodje", "naziv")
+VALUES (
+    '1',
+    'da',
+    '1',
+    '2',
+    'TIM1');
+INSERT INTO "Tim" ("idTima", "aktivan", "idRadnika", "idVodje", "naziv")
+VALUES (
+    '2',
+    'da',
+    '2',
+    '2',
+    'tim2');
+insert into "Vodja" ("idVodje",email, ime, prezime, jmbg, racun, telefon,plata,slobodan,odmor)
+values ('1','maja@vodja.com' ,'Maja','Peric', '1234588889', '55663', '06418000','200000','ne','7');
+insert into "Vodja" ("idVodje",email, ime, prezime, jmbg, racun, telefon,plata,slobodan,odmor)
+values ('2','nina@vodja.com' ,'Nina','Jelic', '12345889', '5663', '06410000','100000','da','7');
+
+INSERT INTO "Zadatak" ("idZadatka", "idRadnika", "idVodje", "naziv", "obavljeno", "opis")
+VALUES (
+    '2',
+    '2',
+    '3',
+    'frontend',
+    'ne',
+    'Radi vue');
+INSERT INTO "Zadatak" ("idZadatka", "idRadnika", "idVodje", "naziv", "obavljeno", "opis")
+VALUES (
+    '1',
+    '1',
+    '2',
+    'Z1',
+    'da',
+    'null');
+
+INSERT INTO "Login" ("email", "sifra", "tip")
+VALUES (
+    'nina@vodja.com',
+    'n',
+    'vodja');
+INSERT INTO "Login" ("email", "sifra", "tip")
+VALUES (
+    'maja@vodja.com',
+    'm',
+    'vodja');
+INSERT INTO "Login" ("email", "sifra", "tip")
+VALUES (
+    'nikola@sef.com',
+    'n',
+    'sef');
+INSERT INTO "Login" ("email", "sifra", "tip")
+VALUES (
+    'sara@sef.com',
+    's',
+    'sef');
+INSERT INTO "Login" ("email", "sifra", "tip")
+VALUES (
+    'marko@radnik.com',
+    'ma',
+    'radnik');
+INSERT INTO "Login" ("email", "sifra", "tip")
+VALUES (
+    'maja@radnik.com',
+    'm',
+    'radnik');
+
+
+
+INSERT INTO "Projekat" ("idProjekta", "datumkraja", "datumpocetka", "idSefa", "idVodje", "naziv", "prioritet", "rok")
+VALUES (
+    '2',
+    '0001-01-01',
+    '2020-01-18',
+    '1',
+    '1',
+    'Projekat2',
+    'Nizak',
+    '2020-01-26');
+
+INSERT INTO "Projekat" ("idProjekta", "datumkraja", "datumpocetka", "idSefa", "idVodje", "naziv", "prioritet", "rok")
+VALUES (
+    '1',
+    '0001-01-01',
+    '2020-01-14',
+    '1',
+    '1',
+    'Projekat1',
+    'Visok',
+    '2020-01-16');
+INSERT INTO "SlobodniDani" ("idDana", "datumDo", "datumOd", "idRadnika", "idSefa", "idVodje", "odobreno", "pregledano")
+VALUES (
+    '2',
+    '2020-01-14',
+    '2020-01-15',
+    NULL,
+    '1',
+    '1',
+    'ne',
+    'ne');
+    
+    INSERT INTO "SlobodniDani" ("idDana", "datumDo", "datumOd", "idRadnika", "idSefa", "idVodje", "odobreno", "pregledano")
+VALUES (
+    '1',
+    '2020-01-14',
+    '2020-01-15',
+    '1',
+    '1',
+    NULL,
+    'ne',
+    'ne');
+
