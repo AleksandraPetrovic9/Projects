@@ -1,0 +1,61 @@
+    CREATE KEYSPACE covid WITH REPLICATION = { 'class' : 'SimpleStrategy', 'replication_factor' : 3 };
+	
+    CREATE TABLE Admin(
+    email text,
+    password text,
+    country text,
+    PRIMARY KEY ((email,password))
+    );
+	
+    CREATE TABLE DateInfo(
+    Date text,
+    Country text,
+    NewCases text,
+    NewDeaths text,
+    NewRecovered text,
+    PRIMARY KEY (Country, Date)
+    );
+   
+   
+	
+    CREATE TABLE CountryInfo(
+    Country text,
+    Confirmed text,
+    Deaths text,
+    Recovered text,
+    Active text,
+    PRIMARY KEY ((Country))
+    );
+
+	
+    CREATE TABLE Patient(
+    patient_id text,
+    sex text,
+    age text,
+    infection_case text,
+    contact_number text,
+    symptom_onset_date text,
+    confirmed_date text,
+    released_date text,
+    state text,
+    PRIMARY KEY ((patient_id))
+    );
+	
+    CREATE TABLE Symptoms(
+    email text,
+    fever text,
+    fatigue text,
+    cough text,
+    dyspnea text,
+    shortness_of_breath text,
+    myalgia text,
+    test_result text,
+    PRIMARY KEY ((email))
+    );
+
+    copy covid.Admin(email, password, country) from 'admin.csv' with HEADER=TRUE;	
+    copy covid.DateInfo(Date,Country,NewCases,NewDeaths,NewRecovered) from 'datum2.csv' with HEADER=TRUE;
+    copy covid.CountryInfo(Country,Confirmed,Deaths,Recovered,Active) from 'zemlje.csv' with HEADER=TRUE;
+    copy covid.Patient(patient_id,sex,age,infection_case,contact_number,symptom_onset_date,confirmed_date,released_date,state) from 'pacijenti.csv' with HEADER=TRUE;
+
+
